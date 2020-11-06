@@ -1,6 +1,7 @@
 ### Hi there, I'm [Pieter!](https://pieterherman.dev) 👋
 
   
+![](https://komarev.com/ghpvc/?username=pieterherman-dev)
 
 
 <!--
