@@ -1,5 +1,8 @@
 ### Hi there, I'm [Pieter!](https://pieterherman.dev) 👋
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pieterherman-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **pieterherman-dev/pieterherman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
