@@ -78,3 +78,10 @@
 </code>](https://www.kernel.org/)
 
 ---
+<a href="https://github-readme-stats.pieterherman-dev.vercel.app/api?username=pieterherman-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical">
+<img align="center" alt="pieterherman-dev's Github Stats" src="https://github-readme-stats.pieterherman-dev.vercel.app/api?username=pieterherman-dev&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<a href="https://github-readme-stats.pieterherman-dev.vercel.app/api/top-langs/?username=pieterherman-dev&layout=compact&theme=radical">
+  <img align="center" src="https://github-readme-stats.pieterherman-dev.vercel.app/api/top-langs/?username=pieterherman-dev&layout=compact&theme=radical" />
+</a>
+
+
