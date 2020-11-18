@@ -1,5 +1,7 @@
 ### Hi there, I'm [Pieter!](https://pieterherman.dev) 👋
 
+<img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
+
   
 ![](https://komarev.com/ghpvc/?username=pieterherman-dev)
 
