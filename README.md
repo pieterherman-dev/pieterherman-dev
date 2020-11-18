@@ -1,10 +1,6 @@
 ### Hi there, I'm [Pieter!](https://pieterherman.dev) 👋
-
-<img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" />
-
   
 ![](https://komarev.com/ghpvc/?username=pieterherman-dev)
-
 
 <!--
 **pieterherman-dev/pieterherman-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
