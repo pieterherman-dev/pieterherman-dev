@@ -2,6 +2,9 @@
 
 Thank you for checking my GitHub page!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pieterherman-dev)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <a href="https://www.buymeacoffee.com/pieterherman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="31" width="164"></a>
 
 ![](https://komarev.com/ghpvc/?username=pieterherman-dev)
