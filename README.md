@@ -4,6 +4,7 @@ Thank you for checking my GitHub page!
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pieterherman-dev)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pieterherman-dev&size_weight=0.5&count_weight=0.5)
 
 <a href="https://www.buymeacoffee.com/pieterherman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="31" width="164"></a>
 
