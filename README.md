@@ -2,7 +2,18 @@
 
 Thank you for checking my GitHub page!
 
+
+<table>
+  <tr>
+    <td>
+<a href="https://app.daily.dev/pieterherman"><img src="https://api.daily.dev/devcards/v2/bfnyz1zrdDSNm8HWDcktP.png?type=default&r=myr" width="356" alt="Pieter Herman's Dev Card"/></a>
+  </td>
+  <td>
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pieterherman-dev&layout=compact&theme=buefy&hide_border=true" /></a> 
+  </td>
+  </tr>
+</table>
+
 
 <a href="https://www.buymeacoffee.com/pieterherman" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" height="31" width="164"></a>
 
